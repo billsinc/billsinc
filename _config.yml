@@ -1,0 +1,59 @@
+# Site
+repository: billsinc/billsinc
+favicon: images/favicon.ico
+
+# Personal info
+name: William R. Sinclair
+title: Technology Executive
+email: bill@sinclairs.io
+website: sinclairs.io
+
+# Social links
+twitter_username: billsinc
+github_username:  billsinc
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: chillwildlife
+linkedin_username: billsinc
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+
+# About Section
+about_title: About Bill
+about_profile_image: images/headshot.png
+about_content: | # this will include new lines to allow paragraphs
+  *20+ years’ success building performant teams and leading complex software development & IT operations*
+
+  Focused, highly technical, hands-on Technology Executive with a wealth of knowledge and experience in SaaS product development, cloud infrastructure, building talented teams, and strengthening relationships with customers and other external business partners/suppliers. Raise capital for projects, successfully navigate merger and acquisition activities, and partner with the senior leadership team to drive strategy. Hone the technical and leadership skills of teams and individuals through training and by creating a culture of delivery. Results include increased enterprise value and extremely low employee attrition rates.
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+experience_title: Career Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+more_title: Additional Information
+more_content: | # this will include new lines to allow paragraphs
+  **Patents:** Sinclair, William. 2012. System for management of oil and gas mineral interests. U.S. Patent 8,249,994, filed April 5, 2007 and issued August 21, 2012; Sinclair, William. 2012. System and method for providing royalty offers to mineral interest owners. U.S. Patent Application 11/697,013, filed April 5, 2007. Patent Pending.
+
+  **Board & Professional Affiliations:** Former Board Member – National Association of Royalty Owners (NARO); Former Board Member – Royalty Owners & Producers Education Coalition (ROPE Coalition); Former Board Member – We Don’t Waste
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+ddarkmode: false
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
