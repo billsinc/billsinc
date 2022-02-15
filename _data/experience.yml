@@ -1,7 +1,15 @@
 - layout: left
+  company: Altitude Control Technology LLC
+  job_title: President & CEO
+  dates: 2021 - Present
+  quote: >
+    Altitude Control Technology specializes in home oxygenation and scientific altitude simulation systems suited for both scientific research as well as to improve sleep in high elevation homes. As the world leader in normobaric altitude simulation, ACT has more experience and installations than all other companies in the field combined.
+  description: |
+
+- layout: left
   company: Takeoffs, Inc.
   job_title: Chief Technology Officer
-  dates: 2019 - Present
+  dates: 2019 - 2021
   quote: >
     Assist builders in the pre-construction phase of development including estimation and materials procurement. Uses a combination of computer vision, artificial intelligence and humans to provide material and labor takeoffs for construction projects.
   description: |
